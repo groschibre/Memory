@@ -1,0 +1,23 @@
+body, td {
+	background-color: #fff8ee;
+    text-align: center;
+	margin: center;
+}
+* {
+    margin: center;
+}
+
+h1 {
+    color: #FFA500;
+    font: 1.0em "Trebuchet MS",Georgia,Arial;
+    margin: auto;
+    padding-bottom: 4px;
+}
+
+#content {
+    background-color: #fff9fe;
+	box-shadow: 0px 0px 20px orange;
+    width: 200px;
+	border: solid #FFA500 2px;
+	margin: auto;
+}
